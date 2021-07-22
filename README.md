@@ -1,5 +1,5 @@
 # A-simple-blog
-This is my first project in Django (the other two web apps published here on my GitHub were made in Flask).
+This is my first project in Django.
 
 I intend to continue the study of Django and later publish more complex projects.
 
